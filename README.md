@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate backend and mobile app developer</h3>
 
 - 🌱 I’m currently learning **Flutter**
 
