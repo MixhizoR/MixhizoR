@@ -1,6 +1,6 @@
-<h3 align="center">A passionate backend and mobile app developer</h3>
+<h3 align="center">A passionate fullstack and mobile app developer</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React.js** and **Express.js**
 
 - 📫 How to reach me **oguzselmancetin@hotmail.com**
 
