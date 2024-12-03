@@ -1,6 +1,6 @@
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🌱 I’m currently learning **Asp.net** and **Angular.js**
+- 🌱 I’m currently learning **Asp.net core** and **Angular.js**
 
 - 📫 How to reach me **oguzselmancetin@hotmail.com**
 
