@@ -1,6 +1,6 @@
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django** and **React.js**
 
 - 📫 How to reach me **oguzselmancetin@hotmail.com**
 
