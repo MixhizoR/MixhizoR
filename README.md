@@ -1,13 +1,79 @@
-<h3 align="center">A passionate Backend Developer</h3>
+## 👋 Oğuz Selman Çetin
 
-- 🌱 I’m currently learning **Java** and **Spring Boot**
+**Backend Developer Adayı · Bilgisayar Mühendisliği 4. Sınıf**  
+Ankara, Türkiye  
 
-- 📫 How to reach me **oguzselmancetin@hotmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-oguz--selman--cetin-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/oguz-selman-cetin/)
+[![Email](https://img.shields.io/badge/Email-oguzselmancetin@hotmail.com-D14836?style=flat&logo=gmail)](mailto:oguzselmancetin@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-MixhizoR-100000?style=flat&logo=github)](https://github.com/MixhizoR)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/oguz-selman-cetin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oguz-selman-cetin/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Performanslı ve ölçeklenebilir backend servisler yazıyorum.  
+Java (Spring Boot) ve Go ile mikroservisler, dağıtık sistemler ve asenkron iletişim üzerine çalışıyorum.  
+Yazdığım şeyleri Docker’la paketleyip kendi başıma ayağa kaldırmayı seviyorum.
+
+---
+
+### 🧰 Kullandıklarım
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=flat-square&logo=dotnet&logoColor=white)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-8A2BE2?style=flat-square)
+
+---
+
+### 🔧 Öne Çıkan Projeler
+
+#### [OmniTicket – Dağıtık Bilet Rezervasyon Sistemi](https://github.com/MixhizoR/omniticket)
+- **Go** (yüksek eşzamanlılık) + **Spring Boot** (iş mantığı) polyglot mimari.
+- Redis (Redisson) ile dağıtık kilitleme – aynı biletin birden fazla kişiye satılmasını engelledim.
+- RabbitMQ üzerinden asenkron e-posta bildirimleri.
+- Prometheus & Grafana ile JVM, CPU, bellek izleme; tamamen Docker’da çalışıyor.
+
+#### [MindLoop – AI Destekli Öğrenme Platformu](https://github.com/MixhizoR/MindLoop)
+- FastAPI + PostgreSQL; aralıklı tekrar algoritması ile kişiselleştirilmiş öğrenme döngüsü.
+- PDF yüklemelerinden LLM ile otomatik soru üretimi.
+- Yüksek eşzamanlı REST API, Docker container ortamı.
+
+#### [PropPulse – Güvenli Emlak Platformu](https://github.com/MixhizoR/PropPulse)
+- Spring Boot, JWT ile kimlik doğrulama, rol tabanlı erişim kontrolü (RBAC).
+- Bootstrap responsive arayüz, GitHub Actions ile CI/CD.
+- Git branching stratejileriyle ekip geliştirmesine uygun yapı.
+
+---
+
+### 💼 Deneyimler
+
+- **İnfodif** (Gömülü Yazılım Stajı) – TCP/IP SCPI komutları, yüksek frekanslı JSON işleme, donanım-yazılım geri bildirim döngüsü.
+- **Bozok Üniversitesi** – Spring Boot ile idari yazılım modernizasyonu.
+- **Ultrasonar** (Freelance) – Endüstriyel makine yazılımı için Spring Boot backend bakımı.
+- **Google DSC** (Web Developer Lideri) – Django backend, 10+ kişilik ekibe code review kültürü kazandırdım.
+- **Moonmach** – Güneş enerjili temizlik robotu için gerçek zamanlı Spring Boot kontrol paneli.
+
+---
+
+### 🎓 Eğitim
+
+**Bozok Üniversitesi** – Bilgisayar Mühendisliği Lisans (2023 – Günümüz)  
+GANO: 3.19 / 4.00
+
+---
+
+### 📜 Sertifikalar
+
+- Hacktrick Siber Güvenlik Konferansı/Eğitimi (BTK, 2024) – Tersine mühendislik, yazılım analizi, sistem güvenliği.
+
+---
+
+### 📫 İletişim
+
+Her türlü iş birliği, staj ya da sadece sohbet için yazabilirsin.  
+[LinkedIn](https://www.linkedin.com/in/oguz-selman-cetin/) üzerinden veya **oguzselmancetin@hotmail.com** adresine mail atarak.
