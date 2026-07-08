@@ -1,7 +1,7 @@
 ## 👋 Oğuz Selman Çetin
 
-**Backend Developer Adayı · Bilgisayar Mühendisliği 4. Sınıf**  
-Ankara, Türkiye  
+**Backend Developer · 4th Year Computer Engineering Student**  
+Ankara, Turkey  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-oguz--selman--cetin-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/oguz-selman-cetin/)
 [![Email](https://img.shields.io/badge/Email-oguzselmancetin@hotmail.com-D14836?style=flat&logo=gmail)](mailto:oguzselmancetin@hotmail.com)
@@ -9,13 +9,13 @@ Ankara, Türkiye
 
 ---
 
-Performanslı ve ölçeklenebilir backend servisler yazıyorum.  
-Java (Spring Boot) ve Go ile mikroservisler, dağıtık sistemler ve asenkron iletişim üzerine çalışıyorum.  
-Yazdığım şeyleri Docker’la paketleyip kendi başıma ayağa kaldırmayı seviyorum.
+I build performance-focused, scalable backend services.  
+Mostly working with Java (Spring Boot) and Go on microservices, distributed systems, and async messaging.  
+I package whatever I build with Docker and get it running on my own.
 
 ---
 
-### 🧰 Kullandıklarım
+### 🧰 Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -30,50 +30,50 @@ Yazdığım şeyleri Docker’la paketleyip kendi başıma ayağa kaldırmayı s
 
 ---
 
-### 🔧 Öne Çıkan Projeler
+### 🔧 Highlighted Projects
 
-#### [OmniTicket – Dağıtık Bilet Rezervasyon Sistemi](https://github.com/MixhizoR/omniticket)
-- **Go** (yüksek eşzamanlılık) + **Spring Boot** (iş mantığı) polyglot mimari.
-- Redis (Redisson) ile dağıtık kilitleme – aynı biletin birden fazla kişiye satılmasını engelledim.
-- RabbitMQ üzerinden asenkron e-posta bildirimleri.
-- Prometheus & Grafana ile JVM, CPU, bellek izleme; tamamen Docker’da çalışıyor.
+#### [OmniTicket – Distributed Ticket Reservation System](https://github.com/MixhizoR/omniticket)
+- Polyglot architecture: **Go** for high concurrency flows, **Spring Boot** for core business logic.
+- Distributed locking via **Redis (Redisson)** to prevent race conditions (no double-booking).
+- Asynchronous email notifications through **RabbitMQ**.
+- Observability with **Prometheus & Grafana** (JVM, CPU, memory), fully containerized with **Docker**.
 
-#### [MindLoop – AI Destekli Öğrenme Platformu](https://github.com/MixhizoR/MindLoop)
-- FastAPI + PostgreSQL; aralıklı tekrar algoritması ile kişiselleştirilmiş öğrenme döngüsü.
-- PDF yüklemelerinden LLM ile otomatik soru üretimi.
-- Yüksek eşzamanlı REST API, Docker container ortamı.
+#### [MindLoop – AI-Powered Learning Platform](https://github.com/MixhizoR/MindLoop)
+- **FastAPI + PostgreSQL**, with a spaced repetition algorithm tailoring learning cycles.
+- LLM integration to auto-generate questions from uploaded PDFs.
+- High-concurrency RESTful APIs, Docker-based deployment.
 
-#### [PropPulse – Güvenli Emlak Platformu](https://github.com/MixhizoR/PropPulse)
-- Spring Boot, JWT ile kimlik doğrulama, rol tabanlı erişim kontrolü (RBAC).
-- Bootstrap responsive arayüz, GitHub Actions ile CI/CD.
-- Git branching stratejileriyle ekip geliştirmesine uygun yapı.
-
----
-
-### 💼 Deneyimler
-
-- **İnfodif** (Gömülü Yazılım Stajı) – TCP/IP SCPI komutları, yüksek frekanslı JSON işleme, donanım-yazılım geri bildirim döngüsü.
-- **Bozok Üniversitesi** – Spring Boot ile idari yazılım modernizasyonu.
-- **Ultrasonar** (Freelance) – Endüstriyel makine yazılımı için Spring Boot backend bakımı.
-- **Google DSC** (Web Developer Lideri) – Django backend, 10+ kişilik ekibe code review kültürü kazandırdım.
-- **Moonmach** – Güneş enerjili temizlik robotu için gerçek zamanlı Spring Boot kontrol paneli.
+#### [PropPulse – Secure Real Estate Platform](https://github.com/MixhizoR/PropPulse)
+- **Spring Boot**, JWT authentication, role-based access control (RBAC), multi-tenant design.
+- Responsive UI with Bootstrap, CI/CD via GitHub Actions.
+- Collaborative development with Git branching strategies.
 
 ---
 
-### 🎓 Eğitim
+### 💼 Experience
 
-**Bozok Üniversitesi** – Bilgisayar Mühendisliği Lisans (2023 – Günümüz)  
-GANO: 3.19 / 4.00
-
----
-
-### 📜 Sertifikalar
-
-- Hacktrick Siber Güvenlik Konferansı/Eğitimi (BTK, 2024) – Tersine mühendislik, yazılım analizi, sistem güvenliği.
+- **İnfodif** (Embedded Software Intern) – TCP/IP SCPI commands, high-frequency JSON stream parsing, hardware-software feedback loop.
+- **Bozok University** – Modernized administrative workflows with Spring Boot.
+- **Ultrasonar** (Freelance Backend Dev) – Maintained and extended Spring Boot backend for industrial machine software.
+- **Google DSC** (Web Dev Lead) – Django backend, introduced clean code & mandatory code reviews for a 10+ dev team.
+- **Moonmach** – Built a real-time Spring Boot control panel for solar-powered cleaning robots.
 
 ---
 
-### 📫 İletişim
+### 🎓 Education
 
-Her türlü iş birliği, staj ya da sadece sohbet için yazabilirsin.  
-[LinkedIn](https://www.linkedin.com/in/oguz-selman-cetin/) üzerinden veya **oguzselmancetin@hotmail.com** adresine mail atarak.
+**Bozok University** – B.Sc. Computer Engineering (Oct 2023 – Present)  
+GPA: 3.19/4.00
+
+---
+
+### 📜 Certificates
+
+- **Hacktrick Cybersecurity Conference** (BTK, 2024) – Reverse engineering, software analysis, system security.
+
+---
+
+### 📫 Contact
+
+Open to internships, freelance work, or just talking backend.  
+Reach out via [LinkedIn](https://www.linkedin.com/in/oguz-selman-cetin/) or directly at **oguzselmancetin@hotmail.com**.
