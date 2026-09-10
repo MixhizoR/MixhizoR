@@ -24,7 +24,6 @@ I package whatever I build with Docker and get it running on my own.
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=flat-square&logo=dotnet&logoColor=white)
 ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-8A2BE2?style=flat-square)
 
 ---
