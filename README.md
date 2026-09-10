@@ -10,7 +10,7 @@ Ankara, Turkey
 ---
 
 I build performance-focused, scalable backend services.  
-Mostly working with Java (Spring Boot) and Go on microservices, distributed systems, and async messaging.  
+Mostly working with Java (Spring Boot), distributed systems, and async messaging.  
 I package whatever I build with Docker and get it running on my own.
 
 ---
@@ -19,7 +19,6 @@ I package whatever I build with Docker and get it running on my own.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
@@ -33,7 +32,7 @@ I package whatever I build with Docker and get it running on my own.
 ### 🔧 Highlighted Projects
 
 #### [OmniTicket – Distributed Ticket Reservation System](https://github.com/MixhizoR/omniticket)
-- Polyglot architecture: **Go** for high concurrency flows, **Spring Boot** for core business logic.
+- High-concurrency architecture built entirely with **Spring Boot** for scalable core business logic.
 - Distributed locking via **Redis (Redisson)** to prevent race conditions (no double-booking).
 - Asynchronous email notifications through **RabbitMQ**.
 - Observability with **Prometheus & Grafana** (JVM, CPU, memory), fully containerized with **Docker**.
